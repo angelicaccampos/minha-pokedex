@@ -1,0 +1,99 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+
+}
+
+body {
+    color: #FFDE00;
+    background-color: #CC0000;
+}
+
+.title {
+    font-family: 'Pokemon Solid', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    color: #FFDE00;
+    text-shadow:
+        -4px -4px 0px #3B4CCA,
+        -4px 4px 0px #3B4CCA,
+        4px -4px 0px #3B4CCA,
+        4px 0px 0px #3B4CCA;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 380px;
+    top: 160px;
+}
+
+.logo2 {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 750px;
+    top: 160px;
+}
+
+.content {
+    padding: .5rem;
+    background-color: aliceblue;
+    height: 100vh;
+    width: 70vw;
+    border: black solid 8px;
+    border-radius: 10px;
+}
+
+#searchResults {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pokemon-info {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+@media screen and (min-width: 320px) {
+    .content {
+        max-width: 320px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}
+
+@media screen and (min-width: 380px) {
+    .content {
+        max-width: 380px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+
+}
+
+@media screen and (min-width: 576px) {
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}

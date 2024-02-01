@@ -1,0 +1,1 @@
+//https://bajan1408.github.io/Pokedex_NTT_Data_Dio/index.html
