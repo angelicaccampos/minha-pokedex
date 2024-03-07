@@ -18,5 +18,5 @@ Aqui desenvolvi uma página web com todos os pokemons, seus nomes, números, pod
 ## ⏲ Status do Repositório
 Em desenvolvimento 
 
-[![GitHub language count](https://img.shields.io/github/languages/count/angelicaccampos/Primeiros-Passos-com-JavaScript)](https://github.com/angelicaccampos/Primeiros-Passos-com-JavaScript)
-[![GitHub last commit](https://img.shields.io/github/last-commit/angelicaccampos/Primeiros-Passos-com-JavaScript)](https://github.com/angelicaccampos/Primeiros-Passos-com-JavaScript)
+[![GitHub language count](https://img.shields.io/github/languages/count/angelicaccampos/minha-pokedex)](https://github.com/angelicaccampos/minha-pokedex)
+[![GitHub last commit](https://img.shields.io/github/last-commit/angelicaccampos/minha-pokedex)](https://github.com/angelicaccampos/minha-pokedex)
